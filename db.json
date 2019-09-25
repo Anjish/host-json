@@ -3,156 +3,91 @@
     "name": "Francis Fowler",
     "phoneNumber": "+XX (983) 438-2287",
     "description": "description 26",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": 65.543171,
-    "longitude": -40.527433,
-    "age": 33,
-    "gender": "female",
-    "company": "BLEENDOT",
-    "email": "francisfowler@bleendot.com"
+    "imageUrl": "https://demonuts.com//Demonuts//SampleImages//iva.jpg",
+    "latitude": 65.543171
   },
   {
     "name": "Walker Moses",
     "phoneNumber": "+XX (853) 533-3541",
     "description": "description 13",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": -24.169431,
-    "longitude": -22.997808,
-    "age": 37,
-    "gender": "male",
-    "company": "APEXIA",
-    "email": "walkermoses@apexia.com"
+    "imageUrl": "https://demonuts.com/Demonuts/SampleImages/roger.jpg",
+    "latitude": -24.169431
   },
   {
     "name": "Mari Evans",
     "phoneNumber": "+XX (866) 541-2598",
     "description": "description 28",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": -47.688063,
-    "longitude": 54.311685,
-    "age": 36,
-    "gender": "female",
-    "company": "REMOLD",
-    "email": "marievans@remold.com"
+    "imageUrl": "https://demonuts.com/Demonuts/SampleImages/shara.jpg",
+    "latitude": -47.688063
   },
   {
     "name": "Felicia Hines",
     "phoneNumber": "+XX (809) 498-3033",
     "description": "description 7",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": -59.568933,
-    "longitude": 18.632452,
-    "age": 36,
-    "gender": "female",
-    "company": "KIDSTOCK",
-    "email": "feliciahines@kidstock.com"
+    "imageUrl": "https://demonuts.com//Demonuts//SampleImages//iva.jpg",
+    "latitude": -59.568933
   },
   {
     "name": "Kelly Daniel",
     "phoneNumber": "+XX (899) 572-2738",
     "description": "description 20",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": -63.275804,
-    "longitude": -118.377186,
-    "age": 23,
-    "gender": "male",
-    "company": "ECOLIGHT",
-    "email": "kellydaniel@ecolight.com"
+    "imageUrl": "https://api.androidhive.info/json/images/tom_hardy.jpg",
+    "latitude": -63.275804
   },
   {
     "name": "Barry Sweet",
     "phoneNumber": "+XX (909) 571-2591",
     "description": "description 26",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": 87.509654,
-    "longitude": 155.794965,
-    "age": 30,
-    "gender": "male",
-    "company": "BILLMED",
-    "email": "barrysweet@billmed.com"
+    "imageUrl": "https://demonuts.com/Demonuts/SampleImages/roger.jpg",
+    "latitude": 87.509654
   },
   {
     "name": "Wiggins Schultz",
     "phoneNumber": "+XX (827) 564-3871",
     "description": "description 12",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": -76.650591,
-    "longitude": -142.834737,
-    "age": 38,
-    "gender": "male",
-    "company": "ZILCH",
-    "email": "wigginsschultz@zilch.com"
+    "imageUrl": "https://api.androidhive.info/json/images/johnny.jpg",
+    "latitude": -76.650591
   },
   {
     "name": "Pollard Ellis",
     "phoneNumber": "+XX (856) 495-2374",
     "description": "description 4",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": 20.742157,
-    "longitude": -119.546505,
-    "age": 35,
-    "gender": "male",
-    "company": "ENERFORCE",
-    "email": "pollardellis@enerforce.com"
+    "imageUrl": "https://api.androidhive.info/json/images/tom_hardy.jpg",
+    "latitude": 20.742157
   },
   {
     "name": "Hendricks Douglas",
     "phoneNumber": "+XX (843) 557-2024",
     "description": "description 0",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": -66.88809,
-    "longitude": -28.894031,
-    "age": 28,
-    "gender": "male",
-    "company": "IMKAN",
-    "email": "hendricksdouglas@imkan.com"
+    "imageUrl": "https://demonuts.com/Demonuts/SampleImages/roger.jpg",
+    "latitude": -66.88809
   },
   {
     "name": "Davidson Vazquez",
     "phoneNumber": "+XX (912) 440-3803",
     "description": "description 14",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": -14.06205,
-    "longitude": -132.660247,
-    "age": 30,
-    "gender": "male",
-    "company": "LEXICONDO",
-    "email": "davidsonvazquez@lexicondo.com"
+    "imageUrl": "https://api.androidhive.info/json/images/johnny.jpg",
+    "latitude": -14.06205
   },
   {
     "name": "Lilly Joseph",
     "phoneNumber": "+XX (983) 523-3742",
     "description": "description 25",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": 67.955176,
-    "longitude": -115.575994,
-    "age": 39,
-    "gender": "female",
-    "company": "TROPOLI",
-    "email": "lillyjoseph@tropoli.com"
+    "imageUrl": "https://demonuts.com//Demonuts//SampleImages//iva.jpg",
+    "latitude": 67.955176
   },
   {
     "name": "Judy Frye",
     "phoneNumber": "+XX (917) 586-3377",
     "description": "description 1",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": 79.660821,
-    "longitude": 102.039695,
-    "age": 32,
-    "gender": "female",
-    "company": "ZILLAR",
-    "email": "judyfrye@zillar.com"
+    "imageUrl": "https://demonuts.com/Demonuts/SampleImages/shara.jpg",
+    "latitude": 79.660821
   },
   {
     "name": "Aisha Ratliff",
     "phoneNumber": "+XX (844) 559-3414",
     "description": "description 3",
-    "imageUrl": "http://placehold.it/32x32",
-    "latitude": 43.913258,
-    "longitude": -1.010018,
-    "age": 32,
-    "gender": "female",
-    "company": "ROBOID",
-    "email": "aisharatliff@roboid.com"
+    "imageUrl": "https://demonuts.com//Demonuts//SampleImages//iva.jpg",
+    "latitude": 43.913258
   }
 ]
